@@ -2,7 +2,7 @@
 A análise apresentada abaixo corresponde ao desafio proposto pelo curso de Formação Scrum Master Certification realizado pela Dio.
 No curso é visto todos os fundamentos do Scrum e é direcionado para a Certificação Internacional: Professional Scrum Master I (PSM I) da Scrum.org
 
-Case de sucesso: Spotify - Agile Team Organisation: Squads, Chapters, Tribes and Guilds
+Case de Sucesso: Spotify - Agile Team Organisation: Squads, Chapters, Tribes and Guilds
 
 O Spotify é uma empresa ágil desde sua concepção, demonstrando proatividade e criatividade ao inovar e adaptar o framework Scrum às suas dimensões e realidade. Essa abordagem permitiu que seus colaboradores se tornassem ownerships, ganhando maior independência e dinâmica nas equipes, além de incentivar o compartilhamento de ideias, tecnologias e inovação.
 
